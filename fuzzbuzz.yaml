@@ -1,0 +1,6 @@
+getting-started-c:
+  language: c
+  steps:
+    - run: make
+  clean:
+    - run: make clean
